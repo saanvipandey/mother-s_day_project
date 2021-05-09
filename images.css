@@ -1,0 +1,74 @@
+.image-section {
+  display: flex;
+  justify-content: center;
+}
+
+.section-style {
+  margin-right: 25px;
+  margin-left: 25px;
+}
+
+div {
+  margin-top: 15px;
+}
+
+body {
+  text-align: center;
+  background-color: rgb(252, 159, 205);
+}
+img
+{
+  width:250px;
+  height:300px;
+  border-radius:50px;
+}
+#image
+{
+    width:200px;
+    height:200px;
+}
+.header
+{
+    font-family:'Times New Roman', Times, serif;
+    font-style:italic;
+    font-size: 40px;
+    color:white;
+}
+h1
+{ 
+    font-style:italic;
+    font-family: cursive;
+}
+.button
+{
+    width:20%;
+}
+#next
+{
+    width:70px;
+    height:50px;
+    border-radius:1000%;
+}
+
+#login
+{
+    width:70px;
+    height:50px;
+}
+
+.press
+{
+    width:20%;
+}
+
+.click
+{
+    width:20%;
+}
+
+#prev
+{
+    width:70px;
+    height:50px;     
+    border-radius:50%; 
+}

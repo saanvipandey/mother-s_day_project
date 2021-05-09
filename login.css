@@ -1,0 +1,40 @@
+.login_div
+{
+	background:rgb(255, 255, 255);
+    float: none;
+    border-radius: 15px;
+    width:60%;
+}
+.header
+{
+    font-family:'Times New Roman', Times, serif;
+    font-style:italic;
+    font-size: 40px;
+    color:white;
+ 
+}
+body
+{
+    background-image:url("https://img.freepik.com/free-vector/colorful-watercolor-rainbow-background_125540-151.jpg?size=626&ext=jpg");
+    background-position:center;
+    background-size: cover;
+}
+img
+{
+    width:100px;
+    height:100px;
+}
+h3 , label
+{
+    font-family:'Times New Roman', Times, serif;
+}
+.button
+{
+    width:60%;
+}
+#image
+{
+    width:200px;
+    height:200px;
+    border-radius:50px;
+}

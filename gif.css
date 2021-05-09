@@ -1,0 +1,72 @@
+.header
+{
+    font-family:'Times New Roman', Times, serif;
+    font-style:italic;
+    font-size: 40px;
+    color:white;
+}
+body
+{
+    background-image:url("https://thumbs.dreamstime.com/z/unicorn-background-rainbow-mesh-hologram-background-rainbow-mesh-liquid-universe-banner-princess-colors-fantasy-137218762.jpg");
+    background-position:center;
+    background-size: cover;
+}
+img
+{
+
+    border-style:solid;
+    border-color:#000000;
+    border-radius:5px;
+    padding:3px;
+    width:500px;
+    height:500px
+}
+.header
+{
+    color:black;
+}
+.button
+{
+    width:20%;
+}
+#image
+{
+    width:200px;
+    height:200px;
+    border-radius:50px;
+}
+#heading, #heading2
+{
+    font-style:italic;
+    font-family:cursive;
+    color:white;
+}
+#next
+{
+    width:70px;
+    height:50px;
+    border-radius:1000%;
+}
+
+#login
+{
+    width:70px;
+    height:50px;
+}
+
+.press
+{
+    width:20%;
+}
+
+.click
+{
+    width:20%;
+}
+
+#prev
+{
+    width:70px;
+    height:50px;     
+    border-radius:50%; 
+}

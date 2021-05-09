@@ -1,0 +1,67 @@
+#image
+{
+    width:200px;
+    height:200px;
+    border-radius:50px;
+}
+
+.header
+{
+    font-family:'Times New Roman', Times, serif;
+    font-style:italic;
+    font-size: 40px;
+    color:white;
+ 
+}
+
+h1
+{
+    font-style:italic;
+    font-family: cursive;
+}
+
+.button
+{
+    width:20%;
+}
+
+h2
+{
+    font-style:italic;
+    font-family: cursive;
+    color:white;
+}
+body
+{
+    background-color:pink;
+}
+
+#next
+{
+    width:70px;
+    height:50px;
+    border-radius:1000%;
+}
+
+#login
+{
+    width:70px;
+    height:50px;
+}
+
+.press
+{
+    width:20%;
+}
+
+.click
+{
+    width:20%;
+}
+
+#prev
+{
+    width:70px;
+    height:50px;     
+    border-radius:50%; 
+}

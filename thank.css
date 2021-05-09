@@ -1,0 +1,56 @@
+.header
+{
+    font-family:'Times New Roman', Times, serif;
+    font-style:italic;
+    font-size: 40px;
+    color:white;
+ 
+}
+#image
+{
+    width:200px;
+    height:200px;
+    border-radius:50px;
+}
+body
+{
+    background-color:cyan;
+}
+img
+{
+    background-color:white;
+    border-radius:50px;
+    height:70%;
+    width:30%;
+}
+
+#next
+{
+    width:70px;
+    height:50px;
+    border-radius:1000%;
+}
+
+#login
+{
+    width:70px;
+    height:50px;
+}
+
+.press
+{
+    width:20%;
+}
+
+.click
+{
+    width:20%;
+}
+
+#prev
+{
+    width:70px;
+    height:50px;     
+    border-radius:50%; 
+}
+
